@@ -1,0 +1,6 @@
+{
+  "name": "Rifat Computer & Variety Store",
+  "description": "Official digital assistant, online service hub, product catalog, notice board, and store management system for Rifat Computer & Variety Store.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
